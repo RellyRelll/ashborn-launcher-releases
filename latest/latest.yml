@@ -1,8 +1,8 @@
-version: 0.1.5
+version: 0.1.8
 files:
-  - url: Ashborn Launcher Setup 0.1.5.exe
-    sha512: E3UC9NOMaUo7ZpDGgi11ZGXhXBsyuIWkW+yaauEC4CmwQ/2ejsP6w9WzZvHHqkXLwHxTwVydZe5HpX9iyTVQBg==
-    size: 96989267
-path: Ashborn Launcher Setup 0.1.5.exe
-sha512: E3UC9NOMaUo7ZpDGgi11ZGXhXBsyuIWkW+yaauEC4CmwQ/2ejsP6w9WzZvHHqkXLwHxTwVydZe5HpX9iyTVQBg==
-releaseDate: '2026-09-12T01:48:30.460Z'
+  - url: Ashborn Launcher Setup 0.1.8.exe
+    sha512: PPEYZc4QM0FkSCtBg98llmKmHnGqTC+pgjnDBCK10ee2XPM/qWMKhCILwJ+8XEQhyqK7Z1d1eHzpKazhox1H2A==
+    size: 98905718
+path: Ashborn Launcher Setup 0.1.8.exe
+sha512: PPEYZc4QM0FkSCtBg98llmKmHnGqTC+pgjnDBCK10ee2XPM/qWMKhCILwJ+8XEQhyqK7Z1d1eHzpKazhox1H2A==
+releaseDate: '2026-09-12T02:49:55.500Z'
